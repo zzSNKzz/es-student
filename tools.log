@@ -6,3 +6,4 @@ arm-none-eabi-gcc (Arch Repository) 16.1.0
 code 1.131.0
 picotool v2.3.0 (Linux, GNU-11.4.0, Release)
 PICO_SDK_PATH=/home/snk/Repositories/pico/pico-sdk
+Pico SDK 2.3.0
